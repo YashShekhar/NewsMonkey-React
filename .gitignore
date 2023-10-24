@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+NewsApiKey.txt
+src/sampleOutput.json
+src/components/Business.txt
